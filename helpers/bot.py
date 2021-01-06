@@ -38,7 +38,7 @@ buttons = [
         InlineKeyboardButton("+", callback_data="+"),
     ],
 ]
-banner = "{:.^34}".format(" Calculator by @odbots ")
+banner = "{:.^34}".format(" Calculator by @synuser ")
 logger = logging.getLogger(__name__)
 
 
